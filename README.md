@@ -6,6 +6,12 @@
 
 Skeletons with trumpets!
 
+## Contributing
+
+This repository has multiple branches for each platform this Minecraft mod supports.
+
+- [`datapack`](https://github.com/lpsmods/trumpet-skeleton/tree/datapack)
+
 ## Mod Data
 
 | Key       | Value              |
